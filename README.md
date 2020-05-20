@@ -9,4 +9,4 @@ Please visit: https://portfolium.com/entry/grabby-arm-boy-grab for the presentat
 ## Kalman Filter
 
 A Kalman filter was implemented to filter out the noise from the data recieved from the ultrasonic sensor. Below is the result:
-![Kalman Result](kalman filter results.png)
+![Kalman Result](kalmanfilterresults.png)
