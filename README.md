@@ -1,4 +1,4 @@
-# Grabby ArmBoy
+# Grabby Arm Boy (GrAB)
 
 C++ code developed to control the robotic arm Grabby Arm Boy using Arduino.
 
